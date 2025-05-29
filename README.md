@@ -10,18 +10,17 @@ Bu proje, kullanıcıdan alınan bilgilerle (ad, soyad, şehir, kullanıcı adı
 ✅ Basit ve anlaşılır HTML arayüz
 
 **Nasıl Kullanılır?**
-1️⃣ Projeyi klonlayın:
 
-git clone https://github.com/kullaniciadi/token-projesi.git
-2️⃣ Dosyaları yerel sunucunuzda çalıştırın veya bir tarayıcıda index.html dosyasını açın.
+- Formdaki alanlara bilgilerinizi girin.
 
-3️⃣ Formdaki alanlara bilgilerinizi girin.
+- “Token Oluştur” butonuna tıklayın.
 
-4️⃣ “Token Oluştur” butonuna tıklayın.
+ -Ekranda oluşturulan token’ı görebilirsiniz.
 
-5️⃣ Ekranda oluşturulan token’ı görebilirsiniz.
-
-Projede Kullanılan Teknolojiler
+**Projede Kullanılan Teknolojiler**
 HTML
 JavaScript
 C#
+
+
+![Ekran görüntüsü 2025-05-29 213901](https://github.com/user-attachments/assets/9b15c6b6-dbb1-4c22-b41a-56f9944a61a2)
