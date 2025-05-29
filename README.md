@@ -12,9 +12,6 @@ Bu proje, kullanıcıdan alınan bilgilerle (ad, soyad, şehir, kullanıcı adı
 **Nasıl Kullanılır?**
 1️⃣ Projeyi klonlayın:
 
-bash
-Copy
-Edit
 git clone https://github.com/kullaniciadi/token-projesi.git
 2️⃣ Dosyaları yerel sunucunuzda çalıştırın veya bir tarayıcıda index.html dosyasını açın.
 
@@ -26,5 +23,5 @@ git clone https://github.com/kullaniciadi/token-projesi.git
 
 Projede Kullanılan Teknolojiler
 HTML
-
 JavaScript
+C#
