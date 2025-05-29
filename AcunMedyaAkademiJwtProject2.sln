@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcunMedyaAkademiJwtProject2", "AcunMedyaAkademiJwtProject2\AcunMedyaAkademiJwtProject2.csproj", "{2863DA23-66D8-43B1-98F1-417B5F6DE508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2863DA23-66D8-43B1-98F1-417B5F6DE508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2863DA23-66D8-43B1-98F1-417B5F6DE508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2863DA23-66D8-43B1-98F1-417B5F6DE508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2863DA23-66D8-43B1-98F1-417B5F6DE508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540B8D38-5739-4C1A-AC11-7A418B9A1AB7}
+	EndGlobalSection
+EndGlobal
